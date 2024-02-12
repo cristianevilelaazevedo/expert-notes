@@ -24,6 +24,11 @@ Nesse projeto foram utilizados as seguintes tecnologias:
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 
+## Deploy do Projeto
+
+<p>O deploy do projeto pode ser conferido no link: <a href="https://expert-notes-azure.vercel.app/">Expert Notes</a></p>
+
+
 ## Contato
 
 <div> 
